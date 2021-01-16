@@ -41,4 +41,4 @@ Unpaid: 52.7%
 
 ## Summary 
 
-Based on the analysis, I would conclude there is no bias with paid and unpaid members for reviews. The only caveat is the sample number for paid reviewers in significantly smaller than unpaid.  But this also illustrates that getting paid for reviews or given the product for free, does not alter the results. 
+Based on the analysis, I would conclude there is no bias with paid and unpaid members for reviews. The only caveat is the sample number for paid reviewers in significantly smaller than unpaid.  But this also illustrates that getting paid for reviews or given the product for free, does not alter the results. An additioinal analysis that could be performed to see if other reviews have bias is to do this same anaysis on two other product review datasets. 
